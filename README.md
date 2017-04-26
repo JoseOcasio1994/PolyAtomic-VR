@@ -8,24 +8,24 @@ Unreal Engine 4.12
 
    Producer
    
-   ![Andrew](/Resources/Andrew.PNG) 
+   ![Andrew](/Resources/Andrew.PNG?raw=true) 
    
    Lead Programmer
    
-   ![Jose](/Resources/Jose.PNG) 
+   ![Jose](/Resources/Jose.PNG?raw=true) 
    
    Programmer
    
-   ![Plato](/Resources/Plato.PNG) 
+   ![Plato](/Resources/Plato.PNG?raw=true) 
    
    Artist
    
-   ![Yan](/Resources/Yan.PNG)
+   ![Yan](/Resources/Yan.PNG?raw=true)
     
 # SME
 
 # How To Play
-![Controller](/Resources/Controller.png)
+![Controller](/Resources/Controller.png?raw=true)
 
 * Menu Button - Pause Game
 * Trackpad Up - Point & Press To Activate Tractor Beam
