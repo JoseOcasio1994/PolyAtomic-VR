@@ -8,24 +8,24 @@ Unreal Engine 4.12
 
    Producer
    
-   ![Andrew](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/Andrew.PNG) 
+   ![Andrew](/Resources/Andrew.PNG) 
    
    Lead Programmer
    
-   ![Jose](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/Jose.PNG) 
+   ![Jose](/Resources/Jose.PNG) 
    
    Programmer
    
-   ![Plato](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/Plato.PNG) 
+   ![Plato](/Resources/Plato.PNG) 
    
    Artist
    
-   ![Yan](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/Yan.PNG)
+   ![Yan](/Resources/Yan.PNG)
     
 # SME
 
 # How To Play
-![Controller](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/Controller.png)
+![Controller](/Resources/Controller.png)
 
 * Menu Button - Pause Game
 * Trackpad Up - Point & Press To Activate Tractor Beam
