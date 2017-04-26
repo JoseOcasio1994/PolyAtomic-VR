@@ -6,7 +6,7 @@ Unreal Engine 4.12
 
 # Team
 
-   ![Andrew](https://github.com/JoseOcasio1994/PolyAtomic-VR/tree/master/Resources/Andrew.PNG) ![Jose](https://github.com/JoseOcasio1994/PolyAtomic-VR/tree/master/Resources/Jose.PNG) ![Plato](https://github.com/JoseOcasio1994/PolyAtomic-VR/tree/master/Resources/Plato.PNG) ![Yan](https://github.com/JoseOcasio1994/PolyAtomic-VR/tree/master/Resources/Yan.PNG)
+   ![Andrew](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/Andrew.PNG) ![Jose](https://github.com/JoseOcasio1994/PolyAtomic-VR/tree/master/Resources/Jose.PNG) ![Plato](https://github.com/JoseOcasio1994/PolyAtomic-VR/tree/master/Resources/Plato.PNG) ![Yan](https://github.com/JoseOcasio1994/PolyAtomic-VR/tree/master/Resources/Yan.PNG)
     Producer        Lead Programmer   Programmer    Artist
 # SME
 
