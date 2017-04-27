@@ -28,6 +28,7 @@ Unreal Engine 4.12
    ![Yan](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/Yan.PNG?raw=true)
     
 # SME
+
 ![CadyBrewer](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/CadyBrewer.jpg?raw=true)
 
 Cady Brewer [cbrewer@lhps.org] is a chemistry and science teacher at Lake Highland Preparatory School. Todd Deery (reached out to her on our behalf, and she enthusiastically agreed to be our subject matter expert. We kept in constant communication throughout the semester, and she visited FIEA on a number of occasions to provide feedback and bring  students in for playtesting.
@@ -49,6 +50,7 @@ Cady Brewer [cbrewer@lhps.org] is a chemistry and science teacher at Lake Highla
 ![Compounds](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/Compounds.PNG?raw=true)
 
 # Playtesting
+
 * In addition to playtesting within our team, we made it a priority to playtest with our target audience. Over the course of the semester we brought in fifteen middle-school students, ages twelve to fourteen, to play the game and provide specific feedback.
 
 * We received an incredible amount of useful feedback on various aspects of the game, including: aesthetics, affordance and controls, difficulty, educational value, and general user experience.
