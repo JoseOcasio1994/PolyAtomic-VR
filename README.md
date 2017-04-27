@@ -1,5 +1,9 @@
-# About
-PolyAtomic is a VR project designed to teach basic chemistry. Players will grab, join, and split atoms to learn about different compounds
+# About Us
+* The Florida Entertainment Academy is a graduate school at the University of Central Florida. FIEA brings programmers, artists and producers together to learn industry best practices and get hands on experience developing video games of all kinds.
+
+* Polyatomic was our primary assignment for a second-semester course known as gamelab. For this class we were tasked with creating a game with a purpose that goes beyond entertainment. The gamelab projects this year range from a mobile game which aims to improve VA hospital janitorial training, to a VR Russian folklore game designed to teach children empathy. 
+
+* Polyatomic was originally conceived as a quantum physics-themed VR rhythm game with elemental power ups. After the initial pitch, our small but dedicated team was formed and pre-production began in earnest. Polyatomic was always intended to be valuable and appealing to young students of science, giving them the unique opportunity to “hold” and interact with atomic and subatomic particles. But it soon became clear that anything beyond the simplest concepts from quantum physics would be lost on our target audience. Thus the decision was made to focus on concepts which are often associated with chemistry: the periodic table of elements, covalent and ionic bonds, and molecular geometry.
 
 # Engine
 Unreal Engine 4.12
@@ -24,6 +28,7 @@ Unreal Engine 4.12
     
 # SME
 ![CadyBrewer](/Resources/CadyBrewer.jpg?raw=true)
+
 Cady Brewer [cbrewer@lhps.org] is a chemistry and science teacher at Lake Highland Preparatory School. Todd Deery (reached out to her on our behalf, and she enthusiastically agreed to be our subject matter expert. We kept in constant communication throughout the semester, and she visited FIEA on a number of occasions to provide feedback and bring  students in for playtesting.
 
 # How To Play
@@ -38,14 +43,8 @@ Cady Brewer [cbrewer@lhps.org] is a chemistry and science teacher at Lake Highla
 * Atoms can combine when they collide
 * Goal - Complete a level by creating the requested compound and throwing into the correct vortex
 
-# About Us
-* The Florida Entertainment Academy is a graduate school at the University of Central Florida. FIEA brings programmers, artists and producers together to learn industry best practices and get hands on experience developing video games of all kinds.
-
-* Polyatomic was our primary assignment for a second-semester course known as gamelab. For this class we were tasked with creating a game with a purpose that goes beyond entertainment. The gamelab projects this year range from a mobile game which aims to improve VA hospital janitorial training, to a VR Russian folklore game designed to teach children empathy. 
-
-* Polyatomic was originally conceived as a quantum physics-themed VR rhythm game with elemental power ups. After the initial pitch, our small but dedicated team was formed and pre-production began in earnest. Polyatomic was always intended to be valuable and appealing to young students of science, giving them the unique opportunity to “hold” and interact with atomic and subatomic particles. But it soon became clear that anything beyond the simplest concepts from quantum physics would be lost on our target audience. Thus the decision was made to focus on concepts which are often associated with chemistry: the periodic table of elements, covalent and ionic bonds, and molecular geometry.
-
 ![Elements](/Resources/Elements.png?raw=true)
+
 ![Compounds](/Resources/Compounds.png?raw=true)
 
 # Playtesting
