@@ -43,9 +43,9 @@ Cady Brewer [cbrewer@lhps.org] is a chemistry and science teacher at Lake Highla
 * Atoms can combine when they collide
 * Goal - Complete a level by creating the requested compound and throwing into the correct vortex
 
-![Elements](/Resources/Elements.png?raw=true)
+![Elements](/Resources/Elements.PNG?raw=true)
 
-![Compounds](/Resources/Compounds.png?raw=true)
+![Compounds](/Resources/Compounds.PNG?raw=true)
 
 # Playtesting
 * In addition to playtesting within our team, we made it a priority to playtest with our target audience. Over the course of the semester we brought in fifteen middle-school students, ages twelve to fourteen, to play the game and provide specific feedback.
