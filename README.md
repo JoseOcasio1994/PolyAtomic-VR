@@ -12,27 +12,27 @@ Unreal Engine 4.12
 
    Producer
    
-   ![Andrew](/Resources/Andrew.PNG?raw=true) 
+   ![Andrew](PolyAtomic-VR/Resources/Andrew.PNG?raw=true) 
    
    Lead Programmer
    
-   ![Jose](/Resources/Jose.PNG?raw=true) 
+   ![Jose](PolyAtomic-VR/Resources/Jose.PNG?raw=true) 
    
    Programmer
    
-   ![Plato](/Resources/Plato.PNG?raw=true) 
+   ![Plato](PolyAtomic-VR/Resources/Plato.PNG?raw=true) 
    
    Artist
    
-   ![Yan](/Resources/Yan.PNG?raw=true)
+   ![Yan](PolyAtomic-VR/Resources/Yan.PNG?raw=true)
     
 # SME
-![CadyBrewer](/Resources/CadyBrewer.jpg?raw=true)
+![CadyBrewer](PolyAtomic-VR/Resources/CadyBrewer.jpg?raw=true)
 
 Cady Brewer [cbrewer@lhps.org] is a chemistry and science teacher at Lake Highland Preparatory School. Todd Deery (reached out to her on our behalf, and she enthusiastically agreed to be our subject matter expert. We kept in constant communication throughout the semester, and she visited FIEA on a number of occasions to provide feedback and bring  students in for playtesting.
 
 # How To Play
-![Controller](/Resources/Controller.png?raw=true)
+![Controller](PolyAtomic-VR/Resources/Controller.png?raw=true)
 
 * Menu Button - Pause Game
 * Trackpad Up - Point & Press To Activate Tractor Beam
@@ -43,9 +43,9 @@ Cady Brewer [cbrewer@lhps.org] is a chemistry and science teacher at Lake Highla
 * Atoms can combine when they collide
 * Goal - Complete a level by creating the requested compound and throwing into the correct vortex
 
-![Elements](/Resources/Elements.PNG?raw=true)
+![Elements](PolyAtomic-VR/Resources/Elements.PNG?raw=true)
 
-![Compounds](/Resources/Compounds.PNG?raw=true)
+![Compounds](PolyAtomic-VR/Resources/Compounds.PNG?raw=true)
 
 # Playtesting
 * In addition to playtesting within our team, we made it a priority to playtest with our target audience. Over the course of the semester we brought in fifteen middle-school students, ages twelve to fourteen, to play the game and provide specific feedback.
