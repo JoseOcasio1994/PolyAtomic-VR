@@ -23,7 +23,7 @@ Unreal Engine 4.12
    ![Yan](/Resources/Yan.PNG?raw=true)
     
 # SME
-
+![CadyBrewer](/Resources/CadyBrewer.jpg?raw=true)
 Cady Brewer [cbrewer@lhps.org] is a chemistry and science teacher at Lake Highland Preparatory School. Todd Deery (reached out to her on our behalf, and she enthusiastically agreed to be our subject matter expert. We kept in constant communication throughout the semester, and she visited FIEA on a number of occasions to provide feedback and bring  students in for playtesting.
 
 # How To Play
@@ -44,6 +44,9 @@ Cady Brewer [cbrewer@lhps.org] is a chemistry and science teacher at Lake Highla
 * Polyatomic was our primary assignment for a second-semester course known as gamelab. For this class we were tasked with creating a game with a purpose that goes beyond entertainment. The gamelab projects this year range from a mobile game which aims to improve VA hospital janitorial training, to a VR Russian folklore game designed to teach children empathy. 
 
 * Polyatomic was originally conceived as a quantum physics-themed VR rhythm game with elemental power ups. After the initial pitch, our small but dedicated team was formed and pre-production began in earnest. Polyatomic was always intended to be valuable and appealing to young students of science, giving them the unique opportunity to “hold” and interact with atomic and subatomic particles. But it soon became clear that anything beyond the simplest concepts from quantum physics would be lost on our target audience. Thus the decision was made to focus on concepts which are often associated with chemistry: the periodic table of elements, covalent and ionic bonds, and molecular geometry.
+
+![Elements](/Resources/Elements.png?raw=true)
+![Compounds](/Resources/Compounds.png?raw=true)
 
 # Playtesting
 * In addition to playtesting within our team, we made it a priority to playtest with our target audience. Over the course of the semester we brought in fifteen middle-school students, ages twelve to fourteen, to play the game and provide specific feedback.
