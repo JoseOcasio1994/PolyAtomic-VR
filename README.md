@@ -45,6 +45,22 @@ Cady Brewer [cbrewer@lhps.org] is a chemistry and science teacher at Lake Highla
 * Atoms can combine when they collide
 * Goal - Complete a level by creating the requested compound and throwing into the correct vortex
 
+# ScreenShots
+
+![Main Menu](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/Main_Menu.gif?raw=true)
+
+![Pause](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/Pause.gif?raw=true)
+
+![Grab](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/Grab.gif?raw=true)
+
+![Periodic Table](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/Periodic_Table.gif?raw=true)
+
+![Card](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/Card.gif?raw=true)
+
+![CO2](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/CO2.gif?raw=true)
+
+# Other
+
 ![Elements](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/Elements.PNG?raw=true)
 
 ![Compounds](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/Compounds.PNG?raw=true)
