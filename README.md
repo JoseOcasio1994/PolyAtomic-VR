@@ -12,7 +12,7 @@ Unreal Engine 4.12
 
    Producer
    
-   ![Andrew](https://github.com/JoseOcasio1994/PolyAtomic-VR/tree/master/Resources/Andrew.PNG?raw=true) 
+   ![Andrew](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/Andrew.PNG?raw=true) 
    
    Lead Programmer
    
