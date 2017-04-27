@@ -16,7 +16,7 @@ Unreal Engine 4.12
    
    Lead Programmer
    
-   ![Jose](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/Jose.PNG) 
+   ![Jose](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/Jose.PNG?raw=true) 
    
    Programmer
    
