@@ -12,27 +12,27 @@ Unreal Engine 4.12
 
    Producer
    
-   ![Andrew](PolyAtomic-VR/Resources/Andrew.PNG?raw=true) 
+   ![Andrew](https://github.com/JoseOcasio1994/PolyAtomic-VR/tree/master/Resources/Andrew.PNG?raw=true) 
    
    Lead Programmer
    
-   ![Jose](PolyAtomic-VR/Resources/Jose.PNG?raw=true) 
+   ![Jose](https://github.com/JoseOcasio1994/PolyAtomic-VR/tree/master/Resources/Jose.PNG?raw=true) 
    
    Programmer
    
-   ![Plato](PolyAtomic-VR/Resources/Plato.PNG?raw=true) 
+   ![Plato](Phttps://github.com/JoseOcasio1994/PolyAtomic-VR/tree/master/Resources/Plato.PNG?raw=true) 
    
    Artist
    
-   ![Yan](PolyAtomic-VR/Resources/Yan.PNG?raw=true)
+   ![Yan](https://github.com/JoseOcasio1994/PolyAtomic-VR/tree/master/Resources/Yan.PNG?raw=true)
     
 # SME
-![CadyBrewer](PolyAtomic-VR/Resources/CadyBrewer.jpg?raw=true)
+![CadyBrewer](https://github.com/JoseOcasio1994/PolyAtomic-VR/tree/master/Resources/CadyBrewer.jpg?raw=true)
 
 Cady Brewer [cbrewer@lhps.org] is a chemistry and science teacher at Lake Highland Preparatory School. Todd Deery (reached out to her on our behalf, and she enthusiastically agreed to be our subject matter expert. We kept in constant communication throughout the semester, and she visited FIEA on a number of occasions to provide feedback and bring  students in for playtesting.
 
 # How To Play
-![Controller](PolyAtomic-VR/Resources/Controller.png?raw=true)
+![Controller](https://github.com/JoseOcasio1994/PolyAtomic-VR/tree/master/Resources/Controller.png?raw=true)
 
 * Menu Button - Pause Game
 * Trackpad Up - Point & Press To Activate Tractor Beam
@@ -43,9 +43,9 @@ Cady Brewer [cbrewer@lhps.org] is a chemistry and science teacher at Lake Highla
 * Atoms can combine when they collide
 * Goal - Complete a level by creating the requested compound and throwing into the correct vortex
 
-![Elements](PolyAtomic-VR/Resources/Elements.PNG?raw=true)
+![Elements](https://github.com/JoseOcasio1994/PolyAtomic-VR/tree/master/Resources/Elements.PNG?raw=true)
 
-![Compounds](PolyAtomic-VR/Resources/Compounds.PNG?raw=true)
+![Compounds](https://github.com/JoseOcasio1994/PolyAtomic-VR/tree/master/Resources/Compounds.PNG?raw=true)
 
 # Playtesting
 * In addition to playtesting within our team, we made it a priority to playtest with our target audience. Over the course of the semester we brought in fifteen middle-school students, ages twelve to fourteen, to play the game and provide specific feedback.
