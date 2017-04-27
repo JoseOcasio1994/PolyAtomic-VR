@@ -1,4 +1,5 @@
 # About Us
+
 * The Florida Entertainment Academy is a graduate school at the University of Central Florida. FIEA brings programmers, artists and producers together to learn industry best practices and get hands on experience developing video games of all kinds.
 
 * Polyatomic was our primary assignment for a second-semester course known as gamelab. For this class we were tasked with creating a game with a purpose that goes beyond entertainment. The gamelab projects this year range from a mobile game which aims to improve VA hospital janitorial training, to a VR Russian folklore game designed to teach children empathy. 
