@@ -16,15 +16,15 @@ Unreal Engine 4.12
    
    Lead Programmer
    
-   ![Jose](https://github.com/JoseOcasio1994/PolyAtomic-VR/tree/master/Resources/Jose.PNG?raw=true) 
+   ![Jose](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/Jose.PNG?raw=true) 
    
    Programmer
    
-   ![Plato](Phttps://github.com/JoseOcasio1994/PolyAtomic-VR/tree/master/Resources/Plato.PNG?raw=true) 
+   ![Plato](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/Plato.PNG?raw=true) 
    
    Artist
    
-   ![Yan](https://github.com/JoseOcasio1994/PolyAtomic-VR/tree/master/Resources/Yan.PNG?raw=true)
+   ![Yan](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/Yan.PNG?raw=true)
     
 # SME
 ![CadyBrewer](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/CadyBrewer.jpg?raw=true)
@@ -32,7 +32,7 @@ Unreal Engine 4.12
 Cady Brewer [cbrewer@lhps.org] is a chemistry and science teacher at Lake Highland Preparatory School. Todd Deery (reached out to her on our behalf, and she enthusiastically agreed to be our subject matter expert. We kept in constant communication throughout the semester, and she visited FIEA on a number of occasions to provide feedback and bring  students in for playtesting.
 
 # How To Play
-![Controller](https://github.com/JoseOcasio1994/PolyAtomic-VR/tree/master/Resources/Controller.png?raw=true)
+![Controller](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/Controller.png?raw=true)
 
 * Menu Button - Pause Game
 * Trackpad Up - Point & Press To Activate Tractor Beam
@@ -43,7 +43,7 @@ Cady Brewer [cbrewer@lhps.org] is a chemistry and science teacher at Lake Highla
 * Atoms can combine when they collide
 * Goal - Complete a level by creating the requested compound and throwing into the correct vortex
 
-![Elements](https://github.com/JoseOcasio1994/PolyAtomic-VR/tree/master/Resources/Elements.PNG?raw=true)
+![Elements](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/Elements.PNG?raw=true)
 
 ![Compounds](https://github.com/JoseOcasio1994/PolyAtomic-VR/blob/master/Resources/Compounds.PNG?raw=true)
 
