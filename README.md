@@ -71,4 +71,4 @@ Cady Brewer [cbrewer@lhps.org] is a chemistry and science teacher at Lake Highla
 
 * We received an incredible amount of useful feedback on various aspects of the game, including: aesthetics, affordance and controls, difficulty, educational value, and general user experience.
 
-# [Download](https://github.com/JoseOcasio1994/PolyAtomic-VR/tree/master/PolyAtomic%20Executable)
+# Download
